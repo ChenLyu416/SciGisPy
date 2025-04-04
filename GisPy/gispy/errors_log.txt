@@ -1,0 +1,11 @@
+file: 668-v0.txt, message: linalg.vector_norm: Expected a floating point or complex tensor as input. Got Long
+file: 670-v0.txt, message: linalg.vector_norm: Expected a floating point or complex tensor as input. Got Long
+file: 669-v1.txt, message: linalg.vector_norm: Expected a floating point or complex tensor as input. Got Long
+file: 669-v0.txt, message: linalg.vector_norm: Expected a floating point or complex tensor as input. Got Long
+file: 683-v1.txt, message: linalg.vector_norm: Expected a floating point or complex tensor as input. Got Long
+file: 644-v0.txt, message: linalg.vector_norm: Expected a floating point or complex tensor as input. Got Long
+file: 715-v1.txt, message: linalg.vector_norm: Expected a floating point or complex tensor as input. Got Long
+file: 644-v1.txt, message: linalg.vector_norm: Expected a floating point or complex tensor as input. Got Long
+file: 715-v0.txt, message: linalg.vector_norm: Expected a floating point or complex tensor as input. Got Long
+file: 683-v0.txt, message: linalg.vector_norm: Expected a floating point or complex tensor as input. Got Long
+file: 670-v1.txt, message: linalg.vector_norm: Expected a floating point or complex tensor as input. Got Long

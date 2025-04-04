@@ -1,0 +1,7 @@
+{
+  "sentence_transformers_model": "sentence-transformers/all-mpnet-base-v2",
+  "sentence_transformers_model_mxbai": "mixedbread-ai/mxbai-embed-large-v1",
+  "sentence_transformers_model_cse": "kamalkraj/BioSimCSE-BioLinkBERT-BASE",
+  "sentence_transformers_model_mistral": "intfloat/e5-mistral-7b-instruct",
+  "sentence_transformers_model_biobert": "gsarti/biobert-nli"
+}

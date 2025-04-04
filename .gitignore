@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+BioSentVec_PubMed_MIMICIII-bigram_d700.bin
+BioWordVec_PubMed_MIMICIII_d200.bin
+GisPy/data/documents/
+GisPy/gispy/saves/
